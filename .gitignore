@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Office lock files
+~$*
+
+# Art scratch space (keep the folder, ignore the tries)
+art/drafts/*
+!art/drafts/.gitkeep
+
+# Node / Vite (for when the game code is added)
+node_modules/
+dist/
+dist-ssr/
+.vite/
+coverage/
+*.local
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
