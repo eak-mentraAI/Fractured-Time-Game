@@ -12,7 +12,9 @@ A hand-illustrated, choice-driven adventure through the Texas Revolution (1835�
 ```
 ├── README.md            ← you are here
 ├── TODO.md              ← build checklist and open decisions
-├── ART_GUIDE.md         ← how to make the art with AI (prompts + checklist)
+├── ART_GUIDE.md         ← art style, characters, rules and fixes
+├── ART_PROMPTS.md       ← 81 ready-to-paste AI prompts (generated)
+├── tools/               ← build_art_prompts.py regenerates ART_PROMPTS.md
 ├── docs/
 │   ├── GAME_STATE.md    ← gameplay rules contract: variables, choices, QTEs, endings
 │   └── design/          ← original spec (v0.3) and branching graph PDF

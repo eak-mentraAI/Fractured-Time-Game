@@ -9,7 +9,7 @@ Every picture for the game lives here. Full instructions and prompts are in [`..
  (AI tool)    →     try in drafts/    →     with the right name   →    in ART_GUIDE.md §8
 ```
 
-1. **Make it** with your AI tool, uploading the locked reference from `reference/`.
+1. **Make it** with your AI tool: copy the prompt from [`../ART_PROMPTS.md`](../ART_PROMPTS.md) and upload the reference it lists.
 2. **Drop every try into `drafts/`.** Name it anything. This folder is your messy desk and is **not** uploaded to GitHub.
 3. **Pick the best one**, check it with the checklist at the end of ART_GUIDE.md, then **save it into the right folder** with the exact file name from the checklist.
 4. **Tick the box** ☐ → ✅ in ART_GUIDE.md §8.

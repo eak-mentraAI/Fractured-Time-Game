@@ -115,6 +115,7 @@ Follow the v0.3 flow: Title → Select → Tutorial → Fracture → Gonzales �
 ## 9. Art & audio production
 
 - [x] Style guide, character descriptions and AI prompts → [ART_GUIDE.md](ART_GUIDE.md)
+- [x] Ready-to-paste prompts for all 81 images → [ART_PROMPTS.md](ART_PROMPTS.md) (regenerate with `python3 tools/build_art_prompts.py`)
 - [ ] Generate the 45 MVP images in ART_GUIDE.md §8A (characters first, using the locked references in `art/reference/`); the 36 optional images come after
 - [ ] Asset spec: resolution, layer naming, export format (WebP/AVIF + PNG fallback), texture-memory budget per scene
 - [ ] UI kit: stamped field-note panels, choice cards, timer bar, button glyphs, chapter cards

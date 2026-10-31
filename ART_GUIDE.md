@@ -4,6 +4,8 @@ This guide has everything you need to make the game's art with an AI image tool.
 
 ---
 
+> 🚀 **Shortcut:** every picture's prompt is already put together for you in **[ART_PROMPTS.md](ART_PROMPTS.md)**. Just copy, paste and go. Use this guide to understand the style and to fix pictures that come out wrong.
+
 ## 🧭 How to use this guide (4 steps)
 
 1. **Pick a picture** from the **Art Checklist** (Part 8). Start with the ⭐ **MVP** list.
